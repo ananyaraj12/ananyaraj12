@@ -18,7 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -
 
 <!--
 **ananyaraj12/ananyaraj12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
