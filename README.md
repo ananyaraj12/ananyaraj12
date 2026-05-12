@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on exciting application development projects while exploring the endless possibilities of AI, cloud technology, and modern tech. 👯 I love collaborating on hackathons and innovative ideas with people from diverse domains because great things happen when different minds come together. 🤝 I’m always looking to grow deeper in AI, cloud, and emerging technologies. 🌱 Currently learning and building my skills in cloud tech and AI to create smarter solutions. 💬 Ask me about app development, hackathons, cube solving, or music. ⚡ Fun fact: I can go from debugging code to solving cubes while vibing to my favorite playlists.<br>
+🚀 I’m a prefinal-year B.Tech student passionate about building impactful application development projects while exploring the ever-evolving worlds of AI 🤖, cloud technology ☁️, and modern innovation 💡. I thrive in hackathons 🏆, enjoy collaborating with people from diverse domains 🤝, and believe the best solutions come from blending creativity with technology. Currently sharpening my skills in AI and cloud to create smarter, scalable solutions 📚. Beyond academics and tech, I enjoy solving cubes 🎲 and vibing to music 🎵—balancing logic, creativity, and curiosity in everything I do.
+.<br>
 
 
 ## 🌐 Socials:
