@@ -1,5 +1,16 @@
-# About Me:
-🚀 I’m a prefinal-year B.Tech student passionate about building impactful application development projects while exploring the ever-evolving worlds of AI 🤖, cloud technology ☁️, and modern innovation 💡. I thrive in hackathons 🏆, enjoy collaborating with people from diverse domains 🤝, and believe the best solutions come from blending creativity with technology. Currently sharpening my skills in AI and cloud to create smarter, scalable solutions 📚. Beyond academics and tech, I enjoy solving cubes 🎲 and vibing to music 🎵—balancing logic, creativity, and curiosity in everything I do.
+# About Me: 
+
+🚀 Aspiring Software Engineer & App Developer
+
+🤖 Interested in AI, ML, and Cloud Technologies
+
+💡 Passionate about creating smart, scalable solutions
+
+🏆 Active Hackathon Participant
+
+🤝 Enjoy collaborating and learning from diverse communities
+
+🎲 Rubik's cube | 🎵 Music
 .<br>
 
 
